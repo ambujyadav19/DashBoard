@@ -1,6 +1,6 @@
 # PulseBoard
 
-🔗 **Live Demo**: [PulseBoard](https://google.com)
+🔗 **Live Demo**: [PulseBoard](https://pulse-board.vercel.app)
 
 ---
 
